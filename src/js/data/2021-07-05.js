@@ -973,5 +973,375 @@ dataSet[dataSetVersion].characterData = [
       region: ['jp'],
       girl: true
     }
+  },
+  {
+    name: "Hana Macchia",
+    img: "jXpmMHw.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "ZEA Cornelia",
+    img: "DHJIjqz.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Taka Radjiman",
+    img: "36KSyYK.png",
+    opts: {
+      region: ['id'],
+      boy: true
+    }
+  },
+  {
+    name: "Rai Galilei",
+    img: "Nn3rMiJ.png",
+    opts: {
+      region: ['id'],
+      boy: true
+    }
+  },
+  {
+    name: "Riksa Dhirendra",
+    img: "bkGa5pw.png",
+    opts: {
+      region: ['id'],
+      boy: true
+    }
+  },
+  {
+    name: "Amicia Michella",
+    img: "LUSj9hf.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Miyu Ottavia",
+    img: "53QM1Hw.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Azura Cecillia",
+    img: "griG50O.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Layla Alstroemeria",
+    img: "iT1mauI.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Nara Haramaung",
+    img: "Gl4qsa5.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Etna Crimson",
+    img: "I8Y5Q2j.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Bonnivier Pranaja",
+    img: "QyDVOVc.png",
+    opts: {
+      region: ['id'],
+      boy: true
+    }
+  },
+  {
+    name: "Siska Leontyne",
+    img: "ZkeYd3V.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Nagisa Arcinia",
+    img: "5lRw2u2.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Derem Kado",
+    img: "trIu4Dj.png",
+    opts: {
+      region: ['id'],
+      girl: true
+    }
+  },
+  {
+    name: "Reza Avanluna",
+    img: "3UvLz85.png",
+    opts: {
+      region: ['id'],
+      boy: true
+    }
+  },
+  {
+    name: "Wiffy",
+    img: "ur6A54P.png",
+    opts: {
+      region: ['kr'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Yu Ruri",
+    img: "Q4STNzG.png",
+    opts: {
+      region: ['kr'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Shin Yuya",
+    img: "faLCFGv.png",
+    opts: {
+      region: ['kr'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Min Suha",
+    img: "ojHBiCM.png",
+    opts: {
+      region: ['kr'],
+      boy: true
+    }
+  },
+  {
+    name: "Moarin",
+    img: "LRWnFol.png",
+    opts: {
+      region: ['kr'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Gaon",
+    img: "P2jgAun.png",
+    opts: {
+      region: ['kr'],
+      boy: true
+    }
+  },
+  {
+    name: "Kaen",
+    img: "EXCB9W3.png",
+    opts: {
+      region: ['kr'],
+      boy: true,
+      retired: true
+    }
+  },
+  {
+    name: "Lorou",
+    img: "zxNjN1M.png",
+    opts: {
+      region: ['kr'],
+      boy: true,
+      retired: true
+    }
+  },
+  {
+    name: "Han Chiho",
+    img: "nPfoeBD.png",
+    opts: {
+      region: ['kr'],
+      boy: true
+    }
+  },
+  {
+    name: "Hakuren",
+    img: "iBBhLxo.png",
+    opts: {
+      region: ['kr'],
+      boy: true,
+      retired: true
+    }
+  },
+  {
+    name: "Lee Siu",
+    img: "n7EIJX6.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "So Nagi",
+    img: "wJ5j6d4.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Chae Ara",
+    img: "BeHNy8g.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Akira Ray",
+    img: "1yTvxnb.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Lee Roha",
+    img: "Qv2vW3v.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Nun Bora",
+    img: "JaYhSXm.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Oh Jiyu",
+    img: "jo2rUSE.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Shin Kiru",
+    img: "LjNw8i7.png",
+    opts: {
+      region: ['kr'],
+      boy: true
+    }
+  },
+  {
+    name: "Yang Nari",
+    img: "5gUe7lo.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Ryu Hari",
+    img: "KIW9F9Y.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Seffyna",
+    img: "vwD3gSZ.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Ban Hada",
+    img: "9lDtyAm.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Song Mia",
+    img: "WOYCxLr.png",
+    opts: {
+      region: ['kr'],
+      girl: true
+    }
+  },
+  {
+    name: "Elira Pendora",
+    img: "sWPQIK8.png",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Pomu Rainpuff",
+    img: "15I79XC.png",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Finana Ryugu",
+    img: "n4FQKus.png",
+    opts: {
+      region: ['en'],
+      girl: true
+    }
+  },
+  {
+    name: "Aadya",
+    img: "wR9tLtl.png",
+    opts: {
+      region: ['in'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Noor",
+    img: "UXYSLEv.png",
+    opts: {
+      region: ['in'],
+      girl: true,
+      retired: true
+    }
+  },
+  {
+    name: "Vihaan",
+    img: "F7PE1tm.png",
+    opts: {
+      region: ['in'],
+      boy: true,
+      retired: true
+    }
   }
-];
+]
