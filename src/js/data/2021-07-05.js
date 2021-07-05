@@ -9,7 +9,7 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "JP", key: "jp" },
-      { name: "IN", key: "id" },
+      { name: "ID", key: "id" },
       { name: "KR", key: "kr" },
       { name: "EN", key: "en" },
       { name: "IN", key: "in" }
